@@ -1,0 +1,12 @@
+body {
+  background: rgb(79, 122, 199);
+  background: linear-gradient(
+    90deg,
+    rgba(79, 122, 199, 1) 12%,
+    rgba(71, 14, 89, 1) 100%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20%;
+}
